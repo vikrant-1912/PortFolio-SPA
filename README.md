@@ -38,8 +38,6 @@ Explore my portfolio here: [courageous-jelly-fd5710.netlify.app](https://courage
 
 ![Screenshot 2025-06-09 172610](https://github.com/user-attachments/assets/9161e938-30d7-472b-837a-14776c844124)
 
-![Screenshot 2025-06-09 172610](https://github.com/user-attachments/assets/4cab391c-c2d4-4687-b143-8ae76246a77e)
-
 
 
 💡 What I Learned
