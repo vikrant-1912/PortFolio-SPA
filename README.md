@@ -6,7 +6,8 @@ Welcome to my personal portfolio, built using **React**, **React Router**, and *
 
 ## 🚀 Live Demo
 
-Explore my portfolio here: [courageous-jelly-fd5710.netlify.app](https://portfolio-spa-1912.netlify.app/)
+Explore my portfolio here:(https://portfolio-spa-1912.netlify.app/)
+LIVE Deployed (Portfolio - SPA) Netlify URL : (https://portfolio-spa-1912.netlify.app/)
 
 ---
 
